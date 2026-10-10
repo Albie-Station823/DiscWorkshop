@@ -1,0 +1,34 @@
+Disc Workshop 1.8.3
+Made by Albert Mark Burdge
+
+This installer installs Disc Workshop and its user guide for your Windows account.
+Windows 11 is required. Administrator access is not normally needed.
+
+IMPORTANT: Video conversion, disc-image creation and burning need separate tools:
+- FFmpeg and FFprobe: conversion and movie analysis.
+- FFplay: video and audio playback in the break preview; keep beside FFmpeg.
+- VCDImager: creation of burnable BIN/CUE images.
+- ImgBurn: writing those images to a CD-R.
+
+These third-party tools are NOT included in this download. Read the installed
+User Guide for download sources and specific setup steps before your first job.
+
+The app only processes readable, unencrypted files. It does not unlock protected
+DVDs, Blu-rays or UHD discs. Output is standard-definition VCD, SVCD or XVCD,
+not DVD, Blu-ray or 4K output. A compatible CD writer and player are required.
+
+Version 1.8.3 adds large-text high-contrast accessibility, per-disc bitrate fitting,
+subtitle burn-in, and a source preview for choosing manual disc breaks.
+The preview accepts HH:MM:SS and Space plays/pauses. Choose MPEG-1 XVCD or
+MPEG-2 SVCD for one-disc or multi-disc fitting, with optional custom parameters.
+Arrow-key preview shortcuts are disabled. Optional disc-break
+fades affect both picture and sound. Low vision can be toggled during conversion.
+It also prefers sustained quiet audio for automatic disc breaks, especially during
+black frames. This is volume detection, not speech recognition. Preview each
+break before burning; dialogue-free or story-appropriate breaks are not guaranteed.
+
+Uninstall using Windows Settings > Apps > Installed apps > Disc Workshop.
+Your converted movies and source files are not removed by uninstalling.
+
+
+

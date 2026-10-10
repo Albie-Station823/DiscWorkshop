@@ -1,0 +1,4 @@
+Disc Workshop
+Copyright (C) 2026 Albert Mark Burdge
+
+This application source is licensed under the GNU General Public License version 2. See LICENSE.txt. It is provided without warranty. Third-party tools remain under their own licenses and are not included in this source repository.
